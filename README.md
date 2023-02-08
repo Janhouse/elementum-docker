@@ -4,6 +4,13 @@ To offload processing from Android TV, run Elementum in a Docker container on a 
 
 ## Usage
 
+Install git and docker with compose plugin. Then clone this repository.
+
+```
+git clone https://github.com/Janhouse/elementum-docker.git
+cd elementum-docker
+```
+
 Copy .env file and make adjustments to it.
 ```
 cp sample.env .env
